@@ -1,5 +1,43 @@
+@font-face{
+	src: url(res/PressStart2P-Regular.ttf);
+	font-family: PS2P-Regular;
+}
+
 body{
 	background-color: black;
+}
+
+#pongHeading{
+	margin-top: 200px;
+}
+
+h1{
+	font-family: PS2P-Regular;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+}
+
+#index a{
+	display: block;
+	text-align: center;
+	font-family: PS2P-Regular;
+	font-size: 20px;
+	color: black;
+	background-color: white;
+	border: 2px outset white;
+	width: 300px;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#index a:hover{
+	background-color: gray;
+	border:2px inset gray;
 }
 
 #game{
@@ -32,3 +70,13 @@ body{
 #player2{
 	left: 95%;
 }
+
+#ball{
+	top: 300px;
+	left: 47.5%;
+
+	background-color: white;
+	width: 20px;
+	height: 20px;
+}
+

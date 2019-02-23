@@ -14,10 +14,10 @@ Been working on it here and there, not really planning on finishing it
 ## Status Log
 Something to just keep track of how long this poject has been going on for.
 
-##### Jan 13
+#### Jan 13
 >Initial Commit
 
-##### Jan 14-Feb 22
+#### Jan 14-Feb 22
 >WIP(Work in progress)
 
 >Sorry for the lack of details, will provide more later

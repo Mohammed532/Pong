@@ -32,6 +32,8 @@ h1{
 	width: 300px;
 	text-decoration: none;
 	font-size: 20px;
+
+	padding: 5px;
 	margin: 20px;
 	margin-left: auto;
 	margin-right: auto;
@@ -41,6 +43,7 @@ h1{
 #index a:hover{
 	background-color: gray;
 	border:2px inset gray;
+	padding: 6px 5px 5px 6px;
 }
 
 #game{
@@ -52,6 +55,7 @@ h1{
 
 #game > *{
 	position: absolute;
+	height: 100%;
 }
 
 #fps_counter > *{
